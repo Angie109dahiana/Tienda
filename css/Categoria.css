@@ -1,0 +1,19 @@
+.wrapper{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    max-width: 400vw;
+}
+.card{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+.card-img{
+
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+}
